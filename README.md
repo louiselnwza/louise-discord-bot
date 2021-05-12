@@ -1,6 +1,10 @@
 # louise-discord-bot
 This repo is contain the legacy of my discord bot for using in BDO game. For ask and alert something
 
+
+ตอนนี้บอทก็ยังคง Online อยู่นะครับ แต่อาจจะไม่ได้พัฒนาต่อแล้วครับ สามารถลองใช้ได้ด้วยการคลิ๊กลิ้งด้านล่างแล้วลากเข้า Channel ที่คุณเป็น Admin ได้เลย
+https://discordapp.com/oauth2/authorize?client_id=484977356193136650&scope=bot&permissions=3072
+
 เป็น Project ตัวแรกเลยมั่ง ที่ใช้ Node.JS ในการลองใช้พัฒนา โจทย์ในตอนนั้นคือ แก้ปัญหาการที่จะต้องมานั่งตอบคำถามเดิมๆ จากน้องๆที่เล่นเกมส์ Black Desert Online ด้วยกัน เช่น
   1. ต้องรู้ว่า ใครเข้า - ออก Discord 
   2. ต้องรู้ว่า ใครเปลี่ยนชื่อ หรือ เพิ่ม Role ใน Discord บ้าง 
